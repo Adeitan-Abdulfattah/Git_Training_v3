@@ -1,3 +1,8 @@
+Git Revert commit 2
+
 This is sample File 1
 
 When you have finished your editing, you need to inform VI that you wish to "quit" the editor and return to your shell. This is done by typing 
+
+This is a comparison lecture
+
