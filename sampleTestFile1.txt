@@ -6,3 +6,4 @@ When you have finished your editing, you need to inform VI that you wish to "qui
 
 This is a comparison lecture
 
+This is stash lecture, change in File 1
