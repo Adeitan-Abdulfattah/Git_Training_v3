@@ -2,3 +2,4 @@ Git Revert commit 2
 
 This is sample File 1
 
+This is a comparison lecture
